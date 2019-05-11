@@ -18,4 +18,3 @@
 * The number of #'s determines the size of header. For example: #### would be an H4 tag.
 ***
 
-## Hello
