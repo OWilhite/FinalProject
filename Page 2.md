@@ -17,4 +17,8 @@
 * To create different sized tags, you must use the # character.
 * The number of #'s determines the size of header. For example: #### would be an H4 tag.
 ***
+# How To Strikethrough 
+* The strikethrough uses two tildes before and after each word or sentence you would like to strike through. (Do not add a space before and after whatever it is that you may strikethrough. 
+* Two tildes will look like this ~~ . 
+* To see the function in action, lets look at an example. ~~This is an example.~~
 [Main Page](https://github.com/OWilhite/FinalProject)
